@@ -1,0 +1,6 @@
+hii this is python program
+this is line number 2
+and thisis 3rd line 
+    hows going
+    and all set
+    
